@@ -7,7 +7,7 @@ Heng Yun Tat yheng015@e.ntu.edu.sg , Parameswaran Sethu Rugma RUGMA001@e.ntu.edu
 
 ### Contributions:
 
-Heng Yun Tat - The full IPYNB code, Data cleaning, Data Visualisation , Exploratory Analysis, Machine learning,  Problem statement generation, Dataset finding, Project Aims, Project Justifications and theory,  Video
+Heng Yun Tat - The full IPYNB code, Data cleaning, Data Visualisation , Exploratory Analysis, Machine learning,  Problem statement generation, Dataset finding, Project Aims, Project Justifications and theory, Slides and Video
 
 Parameswaran Sethu Rugma - Data Cleaning and Exploratory Analysis,  Slides and Video 
 
