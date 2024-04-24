@@ -30,7 +30,9 @@ How does the different features of an item and the nature of the interaction wit
 
 * DSAIMiniProject.ipynb: Full code for Data Extraction, Data Visualisation, Data Cleaning, Machine Training and Prediction Model
 
-* Excel: Dataset excel sheet 
+* Excel: Dataset excel sheet
+
+* Report: Full report on the project
 
 ### Models used, new concepts, Algorithms and Libraries:
 
